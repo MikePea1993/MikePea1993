@@ -88,20 +88,52 @@
 ---
 
 <div align="center">
-🎯 Core Skills
 
+## 🎯 Core Skills
+
+```javascript
 const michael = {
-    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "PHP", "Lua"],
+    code: [
+        "JavaScript", 
+        "TypeScript", 
+        "Python", 
+        "HTML", 
+        "CSS", 
+        "PHP", 
+        "Lua"
+    ],
     technologies: {
-        frontEnd: ["React", "Tailwind CSS", "Bootstrap", "Responsive Design"],
-        backEnd: ["Node.js", "Laravel", "PHP", "Express"],
-        gamedev: ["Phaser.js", "RedM/FiveM"],
-        bots: ["Discord.py", "Automation"],
-        tools: ["Git", "NPM", "VS Code"]
+        frontEnd: [
+            "React", 
+            "Tailwind CSS", 
+            "Bootstrap", 
+            "Responsive Design"
+        ],
+        backEnd: [
+            "Node.js", 
+            "Laravel", 
+            "PHP", 
+            "Express"
+        ],
+        gamedev: [
+            "Phaser.js", 
+            "RedM/FiveM"
+        ],
+        bots: [
+            "Discord.py", 
+            "Automation"
+        ],
+        tools: [
+            "Git", 
+            "NPM", 
+            "VS Code"
+        ]
     },
     currentFocus: "Full Stack Development",
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
 };
+```
+
 </div>
 
 ---
@@ -110,16 +142,16 @@ const michael = {
 
 ## 🤝 Let's Connect!
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/your-server](https://discord.gg/UHm2EpEeAT))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YourUsername](https://github.com/MikePea1993))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mikepea1993/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](frskdevelopment.netlify.app)
 
 ---
 
 ### ⚡ Fun Fact
 *I believe in continuous learning and daily improvement - always staying ahead of industry trends and best practices!*
 
-<img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=MikePea1993&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
