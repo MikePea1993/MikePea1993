@@ -90,7 +90,7 @@
 <div align="center">
 🎯 Core Skills
 
-javascriptconst michael = {
+const michael = {
     code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "PHP", "Lua"],
     technologies: {
         frontEnd: ["React", "Tailwind CSS", "Bootstrap", "Responsive Design"],
