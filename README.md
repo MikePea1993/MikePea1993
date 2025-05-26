@@ -88,11 +88,9 @@
 ---
 
 <div align="center">
+🎯 Core Skills
 
-## 🎯 Core Skills
-
-```javascript
-const michael = {
+javascriptconst michael = {
     code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "PHP", "Lua"],
     technologies: {
         frontEnd: ["React", "Tailwind CSS", "Bootstrap", "Responsive Design"],
@@ -104,8 +102,6 @@ const michael = {
     currentFocus: "Full Stack Development",
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
 };
-```
-
 </div>
 
 ---
