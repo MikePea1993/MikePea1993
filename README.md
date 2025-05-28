@@ -57,8 +57,6 @@
 
 ## 🎯 What I Do
 
-## 🎯 What I Do
-
 | 🌐 **Web Development** | 🤖 **Bot Development** | 🎮 **Game Development** |
 |:---:|:---:|:---:|
 | Responsive websites with modern UI/UX | Discord bots with Python | RedM/FiveM Lua scripting |
